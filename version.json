@@ -1,15 +1,15 @@
 {
   "build": 1119,
-  "title": "обновление 111.9 - тестовая сборка",
-  "date": "30.10.2026",
+  "title": "update 111.9 - realese",
+  "date": "01.11.2026",
   "important": false,
   "url": "https://gamejolt.com/games/MegaClientMod/1051298",
   "changelog": [
-    "новое лобби",
-    "исправлена ошибка при открытии better server на андроид порте",
-    "исправлен шрифт",
-    "исправлена палитра на иконке exeller",
-    "добавлена история чата",
-    "добавлены новости об обновлениях мода"
+    "new lobby",
+    "Fixed an error when opening better server on an android port",
+    "The font has been fixed",
+    "The palette on the exeller icon has been fixed",
+    "Chat history has been added",
+    "News about mod updates have been added".
   ]
 }
